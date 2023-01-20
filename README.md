@@ -1,0 +1,2 @@
+# CDO-Rents
+ANDROID PACKAGE (.apk)
